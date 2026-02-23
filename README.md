@@ -1,6 +1,4 @@
 # Google-search-Trend-Analysis
-Google Search Trends Analysis using  pytrends, matplotlib, seaborn , plotly and  pandas  to identify keyword trends and market insights
-# Google Search Trends Analysis
 
 ## Project Overview
 This project analyzes Google Search Trends data to identify keyword popularity, search patterns, and market trends. The analysis helps understand user behavior and emerging trends using data analytics techniques.
